@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\zooma\\source\\repos\\gitOvn\\GitOvn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC4149B5-FD09-451B-8836-109B8943F893}|GitOvn1\\GitOvn1.csproj|c:\\users\\zooma\\source\\repos\\gitovn\\gitovn\\gitovn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC4149B5-FD09-451B-8836-109B8943F893}|GitOvn1\\GitOvn1.csproj|solutionrelative:gitovn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D269A6A-4844-6A06-E729-473BBBDE1F3A}|GitOvn1\\GitOvn1.csproj|c:\\users\\zooma\\source\\repos\\gitovn\\gitovn\\gitovn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D269A6A-4844-6A06-E729-473BBBDE1F3A}|GitOvn1\\GitOvn1.csproj|solutionrelative:gitovn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,14 +24,10 @@
               "RelativeDocumentMoniker": "GitOvn1\\Program.cs",
               "ToolTip": "C:\\Users\\zooma\\source\\repos\\gitOvn\\GitOvn\\GitOvn1\\Program.cs",
               "RelativeToolTip": "GitOvn1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T20:33:59.049Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
